@@ -7,9 +7,10 @@ This repository contains a small selection of code samples, intended to demonstr
 ## Repository Structure
 
 - **R/** – examples in R *(to be added)* 
+  - `01-temperature-converter.R` – An applicable function that converts a given temperature in Celsius, Fahrenheit or Kelvin to another chosen unit.
 
 - **Python/** – examples in Python *(to be added)*
-  - `01-temperature-converter.py` – A short program that converts temperatures in Celsius to Fahrenheit and Kelvin.
+  - `01-temperature-converter.py` – A short interactive program that converts temperatures in Celsius to Fahrenheit and Kelvin.
 
 ## Usage
 
