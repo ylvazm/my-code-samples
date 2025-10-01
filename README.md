@@ -9,6 +9,7 @@ This repository contains a small selection of code samples, intended to demonstr
 - **R/** – examples in R *(to be added)* 
 
 - **Python/** – examples in Python *(to be added)*
+  - `01-temperature-converter.py` – A short program that converts temperatures in Celsius to Fahrenheit and Kelvin.
 
 ## Usage
 
