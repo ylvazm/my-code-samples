@@ -15,10 +15,8 @@ This repository contains a small selection of code samples, intended to demonstr
 Each script is self-contained and can be run independently.
 
 ## License
-
-License: CC BY-NC-ND 4.0 
-
-Contents are for viewing only. No modification or reuse permitted. 
+This repository is licensed under the [CC BY-NC-ND 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
+Contents are for viewing only. No modification or reuse permitted.
 
 ## Author
 
